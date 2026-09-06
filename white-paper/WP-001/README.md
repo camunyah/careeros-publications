@@ -6,11 +6,11 @@
 
 # Enterprise Decision Engineering
 
-## Why Enterprise Intelligence Needs an Engineering Discipline
+## *Why Enterprise Intelligence Needs an Engineering Discipline*
 
 **CareerOS Executive White Paper**
 
-Version 1.0
+**Version 1.0**
 
 2026
 
@@ -18,38 +18,55 @@ Version 1.0
 
 ---
 
-## Executive Summary
+# Executive Summary
 
 Enterprise Intelligence has matured.
 
-Enterprise Decision Engineering proposes a governed enterprise engineering discipline dedicated to transforming enterprise intelligence into trustworthy executive decision intelligence.
+Enterprise Decision Engineering introduces a governed enterprise engineering discipline dedicated to transforming enterprise intelligence into trustworthy executive decision intelligence.
 
-This white paper introduces the enterprise decision problem, explains why analytics alone is no longer sufficient, presents Enterprise Decision Engineering as the next evolution of enterprise intelligence, and introduces Progressive Enterprise Asset Engineering as the framework's defining innovation.
+This white paper examines the enterprise decision problem, explains why analytics alone is no longer sufficient, introduces Enterprise Decision Engineering as the next evolution of enterprise intelligence, and presents **Progressive Enterprise Asset Engineering** as the framework's defining innovation.
 
----
-
-## Download
-
-📄 **Download the Executive White Paper**
-
-➡️ **WP-001-Enterprise-Decision-Engineering.pdf**
+Written for executive leaders, enterprise architects, researchers, consultants, and decision-makers, WP-001 provides a concise executive introduction to the philosophy and future direction of Enterprise Decision Engineering.
 
 ---
 
-## Publication Information
+# Download
+
+📄 **Executive White Paper (PDF)**
+
+➡️ **[Download WP-001 – Enterprise Decision Engineering](WP-001-Enterprise-Decision-Engineering.pdf)**
+
+---
+
+# Publication Information
 
 | Attribute | Value |
 |-----------|-------|
 | Publication ID | WP-001 |
 | Publication Family | CareerOS Executive White Papers |
+| Publication Title | Enterprise Decision Engineering |
+| Subtitle | *Why Enterprise Intelligence Needs an Engineering Discipline* |
 | Version | 1.0 |
+| Publication Year | 2026 |
 | Author | Chuck A. Munyah-Asaah |
 | Publisher | CareerOS Publications |
-| Status | Official Release |
+| Status | ✅ Official Release |
 
 ---
 
-## Related Publications
+# Related Publications
 
-- PE-001 – CareerOS Enterprise Decision Engineering Framework
-- RS-001 – CareerOS Enterprise Decision Engineering Framework (Coming Soon)
+- 📘 **[PE-001 – CareerOS Enterprise Decision Engineering Framework](../../preview-editions/PE-001/)**
+- 📚 **[RS-001 – CareerOS Enterprise Decision Engineering Framework Reference Standard](../../reference-standards/RS-001/)** *(In Development)*
+
+---
+
+# CareerOS Enterprise Decision Engineering Philosophy
+
+> **From Data to Decisions.**
+>
+> **From Intelligence to Impact.**
+>
+> **From Engineering to Enterprise Value.**
+>
+> **From Innovation to Organizational Transformation.**
