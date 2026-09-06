@@ -74,11 +74,19 @@ Comprehensive engineering specifications governing Enterprise Decision Engineeri
 
 ### *Why Enterprise Intelligence Needs an Engineering Discipline*
 
-The flagship executive white paper introducing Enterprise Decision Engineering as the next evolution of Enterprise Intelligence.
+The flagship executive white paper introducing **Enterprise Decision Engineering** as the next evolution of Enterprise Intelligence.
 
-📄 **Download the White Paper**
+---
 
-➡️ **white-papers/WP-001/WP-001-Enterprise-Decision-Engineering.pdf**
+### 📖 Read the Publication
+
+➡️ **[WP-001 – Enterprise Decision Engineering](white-papers/WP-001/)**
+
+---
+
+### 📄 Download PDF
+
+Available from the publication page.
 
 </div>
 
