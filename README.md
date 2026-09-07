@@ -24,9 +24,9 @@ Executive White Papers
 
 # Welcome
 
-CareerOS Publications is the official publishing division of the **CareerOS Enterprise Decision Engineering Framework (CEDEF).**
+CareerOS Publications is the official publishing repository of the **CareerOS Enterprise Decision Engineering Framework (CEDEF).**
 
-Its mission is to advance **Enterprise Decision Engineering** through executive thought leadership, strategic publications, research papers, executive guides, and future industry insights.
+It serves as the authoritative source for executive white papers and thought leadership publications advancing the theory and practice of Enterprise Decision Engineering.
 
 Rather than serving as technical documentation, CareerOS Publications develops a growing body of executive knowledge dedicated to helping organizations transform enterprise intelligence into trustworthy executive decision intelligence.
 
@@ -58,9 +58,9 @@ The flagship executive white paper introducing **Enterprise Decision Engineering
 
 ---
 
-### 📖 Publication Page
+### 📖 Read the Executive White Paper
 
-➡️ **[Read WP-001](white-papers/WP-001/)**
+➡️ **[Open WP-001 Publication Page](white-papers/WP-001/)**
 
 ---
 
@@ -98,7 +98,7 @@ The first standard (**RS-001**) is currently under development within the Framew
 
 # Publication Roadmap
 
-Future Executive White Papers will expand the CareerOS body of knowledge across key enterprise engineering domains.
+The Executive White Paper series progressively explores the foundational concepts, engineering principles, governance models, implementation strategies, and strategic implications of Enterprise Decision Engineering.
 
 Planned publications include:
 
@@ -122,7 +122,7 @@ CareerOS consists of four complementary repositories.
 | 🛍 **Reference Implementation Portal** | Experience Enterprise Decision Engineering through practical enterprise implementations |
 | 📄 **CareerOS Publications** | Executive White Papers and thought leadership publications |
 
-Together these repositories provide a complete enterprise engineering ecosystem spanning executive leadership, enterprise architecture, practical implementation, and professional knowledge.
+Together these repositories establish the official CareerOS Enterprise Decision Engineering ecosystem—connecting executive leadership, framework architecture, enterprise implementation, and professional publications into a unified body of knowledge.
 
 ---
 
