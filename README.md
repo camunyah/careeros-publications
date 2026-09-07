@@ -24,17 +24,17 @@ Executive White Papers
 
 # Welcome
 
-CareerOS Publications is the official publishing repository of the **CareerOS Enterprise Decision Engineering Framework (CEDEF).**
+CareerOS Publications is the official publishing home of the **CareerOS Enterprise Decision Engineering Framework (CEDEF).**
 
-It serves as the authoritative source for executive white papers and thought leadership publications advancing the theory and practice of Enterprise Decision Engineering.
+Its mission is to advance **Enterprise Decision Engineering** through executive white papers and thought leadership publications that communicate the philosophy, principles, innovations, and future direction of the discipline.
 
 Rather than serving as technical documentation, CareerOS Publications develops a growing body of executive knowledge dedicated to helping organizations transform enterprise intelligence into trustworthy executive decision intelligence.
 
-Executive White Papers complement the Framework Portal by presenting focused, executive-level discussions that explore the principles, innovations, and future direction of Enterprise Decision Engineering.
+Executive White Papers complement the Framework Portal by presenting focused, executive-level discussions that explore Enterprise Decision Engineering from strategic, organizational, and executive perspectives.
 
 ---
 
-# Executive White Paper Library
+# Publication Library
 
 CareerOS Executive White Papers present strategic perspectives on Enterprise Decision Engineering for executive leaders, enterprise architects, consultants, researchers, educators, and organizational decision-makers.
 
@@ -60,29 +60,39 @@ The flagship executive white paper introducing **Enterprise Decision Engineering
 
 ### 📖 Read the Executive White Paper
 
-➡️ **[Open WP-001 Publication Page](white-papers/WP-001/)**
+➡️ **[Open the WP-001 Publication Page](white-papers/WP-001/)**
 
 ---
 
 ### 📄 Download PDF
 
-Available from the publication page.
+The downloadable PDF is available directly from the publication page.
 
 </div>
 
 ---
 
-# Related CareerOS Publications
+# Related CareerOS Resources
 
 CareerOS Publications complements the official Framework Portal.
 
-### 📘 Preview Edition
+### 📘 Framework Portal
+
+The official home of the **CareerOS Enterprise Decision Engineering Framework (CEDEF)**.
+
+Explore the framework philosophy, architecture, Signature Visuals, Preview Edition (PE-001), and future Reference Standards.
+
+➡️ **[CareerOS Enterprise Decision Engineering Framework](https://github.com/camunyah/careeros-enterprise-decision-engineering-framework)**
+
+---
+
+### 📖 Preview Edition (PE-001)
 
 **PE-001 — CareerOS Enterprise Decision Engineering Framework**
 
 Official Markdown publication introducing the philosophy, architecture, and vision of Enterprise Decision Engineering.
 
-➡️ https://github.com/camunyah/careeros-enterprise-decision-engineering-framework
+Available through the Framework Portal.
 
 ---
 
@@ -90,24 +100,22 @@ Official Markdown publication introducing the philosophy, architecture, and visi
 
 Reference Standards define the engineering methodologies, governance models, implementation guidance, certification procedures, and engineering specifications supporting Enterprise Decision Engineering.
 
-The first standard (**RS-001**) is currently under development within the Framework Portal.
-
-➡️ https://github.com/camunyah/careeros-enterprise-decision-engineering-framework
+The first standard (**RS-001**) is currently under development and will be published through the Framework Portal.
 
 ---
 
 # Publication Roadmap
 
-The Executive White Paper series progressively explores the foundational concepts, engineering principles, governance models, implementation strategies, and strategic implications of Enterprise Decision Engineering.
+CareerOS Publications will continue expanding the professional body of knowledge supporting Enterprise Decision Engineering.
 
-Planned publications include:
+Planned Executive White Papers include:
 
 - **WP-002 — Decision Intelligence Engineering**
 - **WP-003 — Progressive Enterprise Asset Engineering**
 - **WP-004 — Executive Decision Intelligence**
 - **WP-005 — Enterprise AI Governance**
 
-Additional white papers will continue exploring Enterprise AI, governance, healthcare analytics, executive decision support, digital transformation, and organizational intelligence.
+Future publications will continue exploring Enterprise AI, enterprise governance, healthcare analytics, executive decision support, digital transformation, organizational intelligence, and emerging enterprise engineering practices.
 
 ---
 
@@ -120,7 +128,7 @@ CareerOS consists of four complementary repositories.
 | 🏠 **Executive Portal** | Meet the architect and explore the CareerOS vision |
 | 📘 **Framework Portal** | Understand the CareerOS Enterprise Decision Engineering Framework |
 | 🛍 **Reference Implementation Portal** | Experience Enterprise Decision Engineering through practical enterprise implementations |
-| 📄 **CareerOS Publications** | Executive White Papers and thought leadership publications |
+| 📄 **CareerOS Publications** | Official publications and executive thought leadership |
 
 Together these repositories establish the official CareerOS Enterprise Decision Engineering ecosystem—connecting executive leadership, framework architecture, enterprise implementation, and professional publications into a unified body of knowledge.
 
