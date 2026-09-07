@@ -40,7 +40,7 @@ CareerOS Executive White Papers present strategic perspectives on Enterprise Dec
 
 | Publication | Version | Status |
 |-------------|:-------:|:------:|
-| **[WP-001 – Enterprise Decision Engineering](white-papers/WP-001/)**<br>*Why Enterprise Intelligence Needs an Engineering Discipline* | **1.0** | ✅ Published |
+| **[WP-001 – Enterprise Decision Engineering](WP-001/)**<br>*Why Enterprise Intelligence Needs an Engineering Discipline* | **1.0** | ✅ Published |
 
 ---
 
