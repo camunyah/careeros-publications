@@ -60,7 +60,7 @@ The flagship executive white paper introducing **Enterprise Decision Engineering
 
 ### 📖 Read the Executive White Paper
 
-➡️ **[Open the WP-001 Publication Page](white-papers/WP-001/)**
+➡️ **[Open the WP-001 Publication Page](WP-001/)**
 
 ---
 
