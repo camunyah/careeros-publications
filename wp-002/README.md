@@ -32,45 +32,9 @@ The publication develops the **Decision Gap**—the persistent gap between what 
 
 ## The Decision Intelligence Engineering Proposition
 
-Decision Intelligence Engineering connects:
-
-**Enterprise Intelligence**
-
-↓
-
-**Evidence & Context**
-
-↓
-
-**Alternatives**
-
-↓
-
-**Governance**
-
-↓
-
-**Explainability**
-
-↓
-
-**Executive Judgment**
-
-↓
-
-**Decision**
-
-↓
-
-**Execution**
-
-↓
-
-**Monitoring**
-
-↓
-
-**Organizational Learning**
+| Enterprise Intelligence | Evidence & Context | Alternatives | Governance | Explainability | Executive Judgment | Decision | Execution | Monitoring | Organizational Learning |
+|---|---|---|---|---|---|---|---|---|---|
+| **Know** | **Understand** | **Compare** | **Govern** | **Explain** | **Judge** | **Commit** | **Act** | **Measure** | **Learn** |
 
 The objective is not to automate executive judgment.
 
@@ -98,6 +62,10 @@ Defines the complementary roles of Artificial Intelligence and human executive j
 
 Examines the conditions required for leaders to act responsibly under uncertainty.
 
+### Decision Readiness
+
+Distinguishes available intelligence from intelligence that is sufficiently governed, contextualized, explainable, owned, and operationally prepared for executive commitment.
+
 ### Decision Governance
 
 Connects authority, accountability, risk, policy, evidence, and organizational responsibility to the decision process.
@@ -112,37 +80,96 @@ Extends evaluation beyond the immediate choice to include execution, outcomes, m
 
 ---
 
-## Publication Editions
+## Publication
 
-### 📘 Research Edition
+### 📘 Official White Paper
 
-The complete WP-002 white paper provides the full conceptual foundation, frameworks, models, and enterprise implications of Decision Intelligence Engineering.
+The complete 22-page WP-002 publication provides the conceptual foundation, frameworks, models, enterprise applications, and executive implications of **Decision Intelligence Engineering**.
 
 ➡️ **[Download WP-002 — Decision Intelligence Engineering](./WP-002-Decision-Intelligence-Engineering.pdf)**
-
-### 📗 Executive Edition
-
-The Executive Edition provides a concise executive briefing designed for leaders, enterprise architects, consultants, researchers, educators, and decision professionals.
-
-➡️ **[Download WP-002 Executive Edition](./WP-002-Executive-Edition.pdf)**
 
 ---
 
 ## Official Launch Poster
 
-The official launch poster introduces WP-002 and visually represents Decision Intelligence Engineering as the bridge between governed enterprise intelligence and executive decision-making.
+The official launch poster introduces WP-002 and visually represents **Decision Intelligence Engineering as the bridge between governed enterprise intelligence and executive decision-making**.
 
 ➡️ **[View WP-002 Official Launch Poster](./WP-002-Official-Launch-Poster.png)**
 
 ---
 
-## Relationship to the CareerOS Framework
+## Featured Frameworks & Instruments
+
+WP-002 introduces a family of CareerOS frameworks and executive instruments supporting trustworthy enterprise decision-making.
+
+| Identifier | Framework / Instrument |
+|---|---|
+| **SV-006** | Enterprise Decision Lifecycle |
+| **SV-007** | Human–AI Decision Collaboration Model |
+| **SV-008** | Executive Decision Confidence Framework |
+| **SV-009** | Decision Readiness Model |
+| **SV-010** | Decision Governance Framework |
+| **SV-011** | Decision Explainability Framework |
+| **AM-001** | Decision Quality Assessment Matrix |
+| **EC-001** | Executive Decision Intelligence Canvas |
+
+Together, these components establish a structured architecture for moving from enterprise intelligence to accountable executive action and organizational learning.
+
+---
+
+## Decision Intelligence Engineering Within CEDEF
 
 WP-002 is part of the **CareerOS Enterprise Decision Engineering Framework (CEDEF)**.
 
 CEDEF establishes a progressive enterprise engineering architecture through which organizational data, analytics, Business Intelligence, Artificial Intelligence, predictive intelligence, Decision Intelligence, and executive judgment are transformed into trustworthy decisions and measurable enterprise value.
 
-Within that architecture, **Decision Intelligence Engineering** provides the engineering bridge between governed enterprise intelligence and executive decision-making.
+Within that architecture, **Decision Intelligence Engineering is the fifth of six integrated enterprise capabilities**.
+
+It receives governed evidence and analytical foresight from the capabilities before it and prepares executive-ready choices for **Executive Decision Engineering**.
+
+Its architectural role can therefore be summarized as:
+
+> **Governed Enterprise Intelligence → Decision Intelligence Engineering → Trustworthy Executive Decisions**
+
+---
+
+## From Intelligence to Organizational Learning
+
+WP-002 treats a decision as more than a single executive event.
+
+A trustworthy enterprise decision progresses through a lifecycle of:
+
+**Strategic Context → Problem Recognition → Evidence Collection → Enterprise Intelligence Integration → Decision Intelligence → Executive Decision → Execution → Monitoring → Continuous Learning → Enterprise Assets**
+
+The lifecycle closes when the knowledge, models, controls, definitions, rationale, outcomes, and lessons generated by a decision become reusable organizational assets.
+
+This creates the intellectual transition to **WP-003 — Progressive Enterprise Asset Engineering**.
+
+---
+
+## Enterprise Applications
+
+Decision Intelligence Engineering is designed as an industry-independent discipline.
+
+WP-002 illustrates its application across:
+
+- Healthcare
+- Retail
+- Manufacturing
+- Government
+- Financial Services
+- Supply Chain
+- Public Health
+
+The technologies and operating environments vary, but the engineering requirement remains consistent:
+
+> **Define the decision, establish trusted evidence, understand context, evaluate alternatives, govern authority and risk, execute deliberately, monitor outcomes, and learn.**
+
+---
+
+## Executive Question
+
+> **Do our intelligence systems merely inform leaders—or have we engineered the enterprise capability to turn that intelligence into decisions we can defend, execute, and learn from?**
 
 ---
 
@@ -170,7 +197,9 @@ Within that architecture, **Decision Intelligence Engineering** provides the eng
 
 *Engineering Reusable Enterprise Intelligence Assets for Continuous Organizational Learning and Decision Excellence*
 
-WP-003 examines how completed enterprise initiatives can leave behind governed, certified, reusable Enterprise Assets that strengthen future organizational intelligence, learning, decision quality, and enterprise capability.
+WP-003 extends the CareerOS inquiry from engineering individual decision lifecycles to engineering an enterprise whose knowledge and capability **compound over time**.
+
+It examines how completed initiatives can produce governed, certified, reusable Enterprise Assets that strengthen future intelligence, organizational learning, decision quality, and enterprise capability.
 
 ---
 
@@ -190,7 +219,8 @@ This publication is designed for:
 - Researchers
 - University Faculty
 - Graduate Students
-- Government and Healthcare Leaders
+- Government Leaders
+- Healthcare Leaders
 
 ---
 
@@ -198,7 +228,7 @@ This publication is designed for:
 
 **CareerOS** is an enterprise engineering ecosystem dedicated to advancing the theory and practice of **Enterprise Decision Engineering**.
 
-Its ecosystem includes enterprise frameworks, Executive White Papers, Signature Visuals, Reference Standards, industry Reference Implementations, research, software, executive education, certification, and consulting.
+Its ecosystem includes enterprise frameworks, Executive White Papers, Signature Visuals, Reference Standards, industry Reference Implementations, research, intelligent software, executive education, certification, and consulting.
 
 The objective is to help organizations transform enterprise intelligence into trustworthy executive decisions and sustainable organizational value.
 
@@ -214,11 +244,11 @@ He is the architect and creator of the **CareerOS Enterprise Decision Engineerin
 
 <div align="center">
 
-### CareerOS Publications
+## CareerOS Publications
 
-**Enterprise Decision Engineering™**
+### Enterprise Decision Engineering™
 
-*Engineering Better Decisions. Building Stronger Enterprises.*
+**Engineering Better Decisions. Building Stronger Enterprises.**
 
 **CareerOS Executive White Paper Series • Publication 2 • WP-002 • Version 1.0 • 2026**
 
