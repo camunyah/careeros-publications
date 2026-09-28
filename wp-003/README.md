@@ -9,7 +9,7 @@
 
 ---
 
-## Every Initiative Should Leave the Enterprise More Capable Than It Found It
+## Every Initiative Should Leave the Enterprise More Capable Than It Found It  
 
 Traditional projects are commonly evaluated by whether they deliver their immediate outputs successfully.
 
